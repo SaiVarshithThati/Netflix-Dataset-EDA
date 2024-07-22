@@ -4,22 +4,15 @@ This repository contains code and visualizations for an exploratory data analysi
 
 ## Description
 
-The analysis explores the content available on Netflix, including the distribution of movies vs. TV shows, release years, production countries, and other relevant features. 
+The analysis explores the content available on Netflix, including the attributes like type, title, director, cast, country, rating and other relevant features. 
 
-This project uses Pandas and Matplotlib for data manipulation and visualization.
+This project uses Pandas, numpy, seaborn and Matplotlib for data manipulation and visualization.
 
 ## Exploratory Analysis
 
 We aimed to answer the following questions:
 
 * What is the proportion of movies vs. TV shows on Netflix?
-* How has the release year distribution of content changed over time?
-* Which countries are the top producers of content on Netflix?
+* How is the distribution of content to the different genre?
+* Which countries are the top rated of content on Netflix?
 
-## Findings and Discussion
-
-The analysis revealed that ... (Insert key findings). 
-
-## Data Source
-
-Link to the Netflix dataset: [Link to data source]
